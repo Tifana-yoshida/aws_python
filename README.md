@@ -1,1 +1,2 @@
 # aws_python
+さくらさんで使うAWSサーバのPythonプログラムです
